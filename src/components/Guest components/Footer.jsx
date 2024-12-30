@@ -1,4 +1,4 @@
-import {Link as ScrollLink} from "react-scroll";
+
 
 import logo from "../../assets/images/final main logo.svg";
 import {FaRegCopyright} from "react-icons/fa";

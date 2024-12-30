@@ -1,5 +1,5 @@
 import React, {useContext, useEffect, useRef, useState} from "react";
-import {Link as ScrollLink} from "react-scroll";
+
 import {Link, NavLink} from "react-router-dom";
 import {FiMenu, FiX, FiUser} from "react-icons/fi";
 import logo from "../../assets/images/final main logo.svg";
