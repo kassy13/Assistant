@@ -155,12 +155,12 @@ const Upgrade = () => {
           <div className="bg-gradient-card  rounded-3xl xlt:h-[50vh]  sm:h-[47%] lt:h-[47%] mac:h-[48%] p-[2px] transition-all hover:scale-[1.02] hover:shadow-[0px_10px_100px_5px_#0653C099] ">
             <div className="relative w-full h-full rounded-3xl gradient-border">
               <div
-                className="overflow-y-hidden w-full h-full rounded-3xl"
-                style={{
-                  backgroundImage: `url(${bgupgrade})`,
-                  backgroundSize: "cover",
-                  backgroundPosition: "center bottom",
-                }}
+                className="overflow-y-hidden w-full h-full rounded-3xl bgUpgrade"
+                // style={{
+                //   backgroundImage: `url(${bgupgrade})`,
+                //   backgroundSize: "cover",
+                //   backgroundPosition: "center bottom",
+                // }}
               >
                 <p className="text-text sm:text-text xlt:text-[14px] lt:text-[16px] md:text-[22px] lg:text-xl mac:text-2xl xxxl:text-3xl text-center font-semibold px-6 pt-4 md:pt-0 md:my-6  lg:my-4 xxxl:my-12 ">
                   Expand Your Network And Sales Funnel Through DM Marketing
@@ -179,12 +179,12 @@ const Upgrade = () => {
           <div className="bg-gradient-card-reverse  rounded-3xl xlt:h-[50vh] lt:h-[50%] mac:h-[52%] p-[2px] transition-all hover:scale-[1.02] hover:shadow-[0px_10px_100px_5px_#0653C099] ">
             <div className="  w-full  relative  h-full rounded-3xl gradient-border ">
               <div
-                className="overflow-y-hidden w-full h-full rounded-3xl"
-                style={{
-                  backgroundImage: `url(${bgupgrade})`,
-                  backgroundSize: "cover",
-                  backgroundPosition: "center bottom",
-                }}
+                className="overflow-y-hidden w-full h-full rounded-3xl bgUpgrade"
+                // style={{
+                //   backgroundImage: `url(${bgupgrade})`,
+                //   backgroundSize: "cover",
+                //   backgroundPosition: "center bottom",
+                // }}
               >
                 <p className="text-text xlt:text-[14px] lt:text-[16px] md:text-[22px] lg:text-xl  mac:text-2xl xxxl:text-3xl  text-center font-semibold px-6 pt-5 mac:pt-5 md:py-8 lg:py-4  mac:py-0 xxxl:py-10 ">
                   Take Selling A Product Or Service To The Next Level
@@ -231,12 +231,12 @@ const Upgrade = () => {
           <div className="relative h-[100%] xlt:h-[40%] lt:h-[40%]  sm:h-[40%]  md:h-[40%] lg:h-[38%] mac:h-[40%]  bg-gradient-card-reverse  rounded-3xl p-[2px] transition-all hover:scale-[1.02] hover:shadow-[0px_10px_100px_5px_#0653C099] ">
             <div className="  w-full  relative  h-full rounded-3xl gradient-border  ">
               <div
-                className="overflow-y-hidden w-full h-full rounded-3xl"
-                style={{
-                  backgroundImage: `url(${bgupgrade})`,
-                  backgroundSize: "cover",
-                  backgroundPosition: "center bottom",
-                }}
+                className="overflow-y-hidden w-full h-full rounded-3xl bgUpgrade"
+                // style={{
+                //   backgroundImage: `url(${bgupgrade})`,
+                //   backgroundSize: "cover",
+                //   backgroundPosition: "center bottom",
+                // }}
               >
                 <p className="text-text xlt:text-[14px]  lt:text-[16px] md:text-[22px] lg:text-xl  mac:text-2xl xxxl:text-3xl text-center font-semibold py-4 translate-y-3 mac:translate-y-4 1900:translate-y-10">
                   Monetize Off X’s Revenue Share Model
